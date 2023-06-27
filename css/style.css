@@ -1,0 +1,187 @@
+body {
+    margin:0px;
+}
+header{
+    background-color: #fff159;
+    height: 75px;
+    margin: 1px; color: purple;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    width: 200px;
+    top: 25%;
+
+
+}
+
+.productos-header {
+    position: absolute;
+    left: 1%;
+    top: 2%;
+
+}
+
+.header-nav {
+    position: absolute;
+    right: 9.5%;
+    top: 2%;
+}
+
+.opiniones {
+    position: absolute;
+    left: 16%;
+    top: 2%;
+    
+}
+
+.banner-image {
+    width: 100%;
+}
+
+.productos {
+    margin: 40px;
+}
+
+.producto{
+    width: 200px;
+}
+
+.productos h2{
+    text-align: center;
+}
+
+.contenedor-productos {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.contenedor-productos div {
+    width: 250px;
+    height: 350px;
+    border: 1px solid grey;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.contenedor-productos div a {
+    background-color: rgb(57, 57, 212);
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+
+}
+.producto-2{
+    width: 300px;
+}
+
+.productos_dos {
+    margin: 40px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.productos_dos div {
+    width: 450px;
+    height: 350px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.contenedor-form {
+    background-color: #fbbc02;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contenedor-form h1 {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.contenedor-form div img {
+    width: 300px;
+}
+
+form {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-nav ul {
+    list-style: none;
+
+}
+
+.footer-nav h2 {
+    margin-left: 5%;
+    color: purple;
+    background-color: #fff159;
+}
+
+/* Logos de RR.SS */
+
+.rss {
+    color: fuchsia;
+}
+
+.producto{
+    height: 200px;
+    width: 200px;
+}
+
+.productos-card{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-img-top{
+    height: 400px;
+    width: 300px;
+}
+
+.Titulos_default{
+    color:purple;
+
+}
+
+.columnas_footer{
+    background-color: #fff159;
+    height: 150px;
+}
+
+.barrita{
+    width: 400px;
+    height: 25px;
+    
+}
+
+.barrita2{
+    margin-top: 5px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    width: 450px;
+    height: 50;
+    
+}
+
+
